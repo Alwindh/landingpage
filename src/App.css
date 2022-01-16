@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+
+
+html{
+    background-color: rgba(0, 0, 0, 0.2) !important;
+}
+
+.MuiCard-root{
+    margin-top: 2em;
+    margin-left: 3em;
+    margin-right: 3em;
+    margin-bottom: 2em;
+}
+
+.MuiCardContent-root{
+    background-color: white !important;
+
+}
+
+.mContainer{
+    padding-top: 1em;
+}
+
+.MuiPaper-root{
+    background-color: rgb(235, 235, 235) !important;
+}
