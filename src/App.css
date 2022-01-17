@@ -44,9 +44,9 @@ html{
 
 .MuiCard-root{
     margin-top: 2em;
-    margin-left: 3em;
+    /* margin-left: 3em;
     margin-right: 3em;
-    margin-bottom: 2em;
+    margin-bottom: 2em; */
 }
 
 .MuiCardContent-root{
@@ -58,6 +58,10 @@ html{
     padding-top: 1em;
 }
 
-.MuiPaper-root{
+.mPaper{
     background-color: rgb(235, 235, 235) !important;
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-bottom: 2em;
+
 }

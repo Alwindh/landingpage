@@ -11,7 +11,7 @@ import { CardActionArea } from "@mui/material";
 function App() {
 	return (
 		<Container className="mContainer">
-			<Paper>
+			<Paper className="mPaper">
 				<Stack>
 					<Card>
 						<CardActionArea
